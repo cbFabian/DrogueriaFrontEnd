@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FormCrearReunion test should match snapshot 1`] = `
+<div>
+  <form>
+    <h2>
+      Form test
+    </h2>
+    <input
+      class="sc-AxirZ eAukyj"
+      name="tipo"
+      placeholder="Tipo"
+      value=""
+    />
+    <input
+      class="sc-AxirZ eAukyj"
+      name="precio"
+      placeholder="Precio"
+      value=""
+    />
+    <button
+      class="sc-AxjAm kgxTKy"
+      type="submit"
+    >
+      Registrar
+    </button>
+  </form>
+</div>
+`;

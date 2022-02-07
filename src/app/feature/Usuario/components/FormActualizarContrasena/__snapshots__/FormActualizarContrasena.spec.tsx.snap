@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FormActualizarContrasena test should match snapshot 1`] = `
+<div>
+  <form>
+    <h2>
+      Form test
+    </h2>
+    <input
+      class="sc-AxirZ eAukyj"
+      name="claveActual"
+      placeholder="Clave Actual"
+      value=""
+    />
+    <input
+      class="sc-AxirZ eAukyj"
+      name="claveNueva"
+      placeholder="Ingrese la nueva Clave"
+      value=""
+    />
+    <input
+      class="sc-AxirZ eAukyj"
+      name="confirmarclaveNueva"
+      placeholder="Confirme la Nueva Clave"
+      value=""
+    />
+    <button
+      class="sc-AxjAm kgxTKy"
+      type="submit"
+    >
+      Actualizar
+    </button>
+  </form>
+</div>
+`;
